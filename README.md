@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Spolders
-- 👀 I’m interested in Energy market analysis adn real options valuation
+- 👀 I’m interested in Energy market analysis and real options valuation
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on a battery optimizer comparison project
 - 📫 How to reach me erwin@flexup.pro
